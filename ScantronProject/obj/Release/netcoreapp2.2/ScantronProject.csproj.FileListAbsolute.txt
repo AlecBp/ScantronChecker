@@ -1,0 +1,10 @@
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\bin\Release\netcoreapp2.2\ScantronProject.deps.json
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\bin\Release\netcoreapp2.2\ScantronProject.runtimeconfig.json
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\bin\Release\netcoreapp2.2\ScantronProject.runtimeconfig.dev.json
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\bin\Release\netcoreapp2.2\ScantronProject.dll
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\bin\Release\netcoreapp2.2\ScantronProject.pdb
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\obj\Release\netcoreapp2.2\ScantronProject.csproj.CoreCompileInputs.cache
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\obj\Release\netcoreapp2.2\ScantronProject.AssemblyInfoInputs.cache
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\obj\Release\netcoreapp2.2\ScantronProject.AssemblyInfo.cs
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\obj\Release\netcoreapp2.2\ScantronProject.dll
+C:\Users\Alec\Documents\repos\ScantronProject\ScantronProject\ScantronProject\obj\Release\netcoreapp2.2\ScantronProject.pdb
